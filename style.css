@@ -1,0 +1,81 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+
+h1{
+    background-color: rgb(213, 201, 255);
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+
+em{
+    color: red;
+}
+
+h2{
+    color: green;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+.yellow{
+    text-align: center;
+    background-color: yellow;
+}
+
+img{
+    width: 700px;
+    height: 350px;
+}
+
+form{
+    text-align: left;
+}
+
+textarea{
+    width: 1000px;
+    height: 100px;
+}
+
+button{
+    color: white;
+    width: 350px;
+    height: 50px;
+    font-size: x-large;
+    background-color: rgb(109, 135, 255);
+    border: 1px solid rgb(109, 135, 255);
+}
+
+tr,th,td{
+    color: white;
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 50px;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+    width: 500px;
+}
+
+.black{
+    background-color: black;
+    width: 1000px;
+}
